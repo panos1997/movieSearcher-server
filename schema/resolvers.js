@@ -1,3 +1,5 @@
+const fetch = require('node-fetch');
+
 const API_KEY = '4891255ea64aca39065617a0cef1c045';
 
 const resolvers = {
